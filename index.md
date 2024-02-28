@@ -10,6 +10,6 @@ I am happy that I can learn to use Visual Studio Code with GitHub.
 I like watching tv series and movies.
 I like music.
 I like pasta.
-I like ccup cakes.
+I like cup cakes.
 I like race cars.
 I like Bilibili.
